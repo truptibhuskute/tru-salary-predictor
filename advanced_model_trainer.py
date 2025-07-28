@@ -1,7 +1,7 @@
 """
 Advanced Model Trainer for TRU Salary Prediction
 Copyright (c) 2025 TRU Salary Predictor
-Contact: contact@trusalaryprediction.com
+Contact: truptibhuskute@gmail.com
 
 Trains and evaluates multiple machine learning models for salary prediction.
 Includes bias analysis, feature importance, and model comparison.

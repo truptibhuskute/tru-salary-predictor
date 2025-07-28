@@ -1,7 +1,7 @@
 """
 Advanced Data Generator for TRU Salary Prediction
 Copyright (c) 2025 TRU Salary Predictor
-Contact: contact@trusalaryprediction.com
+Contact: truptibhuskute@gmail.com
 
 Generates realistic and diverse salary datasets for machine learning model training.
 Specifically designed for the Indian job market with realistic salary ranges and demographics.

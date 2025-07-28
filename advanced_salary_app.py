@@ -1,7 +1,7 @@
 """
 TRU Salary Predictor - Advanced Salary Prediction System
 Copyright (c) 2025 TRU Salary Predictor
-Contact: bhuskutetrupti@gmail.com
+Contact: truptibhuskute@gmail.com
 
 A highly accurate and interpretable machine learning model that predicts employee salaries,
 enabling organizations to make data-driven decisions for compensation, recruitment, and retention,
@@ -621,6 +621,6 @@ if __name__ == "__main__":
     <div style='text-align: center; padding: 20px; background-color: #262730; border-radius: 8px;'>
         <h4>💰 TRU Salary Predictor</h4>
         <p>Copyright © 2025 TRU Salary Predictor</p>
-        <p>📧 Contact: <a href='mailto:bhuskutetrupti@gmail.com'>bhuskutetrupti@gmail.com</a></p>
+        <p>📧 Contact: <a href='mailto:truptibhuskute@gmail.com'>truptibhuskute@gmail.com</a></p>
     </div>
     """, unsafe_allow_html=True) 

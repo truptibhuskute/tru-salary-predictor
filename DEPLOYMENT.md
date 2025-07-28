@@ -92,7 +92,7 @@ Set these in your deployment platform:
 
 ## 📞 Support
 
-- **Email**: bhuskutetrupti@gmail.com
+- **Email**: truptibhuskute@gmail.com
 - **Copyright**: © 2025 TRU Salary Predictor
 
 ## 🎉 Success!

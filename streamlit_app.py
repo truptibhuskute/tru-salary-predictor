@@ -1,7 +1,7 @@
 """
 TRU Salary Predictor - Main Deployment App
 Copyright (c) 2025 TRU Salary Predictor
-Contact: bhuskutetrupti@gmail.com
+Contact: truptibhuskute@gmail.com
 
 Main deployment file for the TRU Salary Predictor application.
 This file serves as the entry point for deployment platforms.

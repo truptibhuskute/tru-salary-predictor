@@ -1,7 +1,7 @@
 """
 Bias Mitigation Module for TRU Salary Prediction
 Copyright (c) 2025 TRU Salary Predictor
-Contact: contact@trusalaryprediction.com
+Contact: truptibhuskute@gmail.com
 
 Addresses age, gender, and ethnicity biases detected in the model.
 Ensures fair and equitable salary predictions across all demographic groups.

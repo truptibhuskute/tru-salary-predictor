@@ -1,7 +1,7 @@
 """
 TRU Salary Predictor - Modern Salary Prediction System
 Copyright (c) 2025 TRU Salary Predictor
-Contact: bhuskutetrupti@gmail.com
+Contact: truptibhuskute@gmail.com
 
 A modern, professional salary prediction system with beautiful UI and accurate predictions.
 """
@@ -705,7 +705,7 @@ def main():
     <div class="footer">
         <h4>💰 TRU Salary Predictor Pro</h4>
         <p>Copyright © 2025 TRU Salary Predictor</p>
-        <p>📧 Contact: <a href='mailto:bhuskutetrupti@gmail.com' style='color: #FFD700;'>bhuskutetrupti@gmail.com</a></p>
+        <p>📧 Contact: <a href='mailto:truptibhuskute@gmail.com' style='color: #FFD700;'>truptibhuskute@gmail.com</a></p>
     </div>
     """, unsafe_allow_html=True)
 

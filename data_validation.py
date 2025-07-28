@@ -1,7 +1,7 @@
 """
 Data Validation Module for TRU Salary Prediction
 Copyright (c) 2025 TRU Salary Predictor
-Contact: contact@trusalaryprediction.com
+Contact: truptibhuskute@gmail.com
 
 Comprehensive validation system for salary prediction data including location validation,
 demographic checks, and business logic validation.
