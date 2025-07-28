@@ -13,9 +13,9 @@
 
 1. **Push to GitHub:**
    ```bash
-   git add .
-   git commit -m "Initial commit: TRU Salary Predictor"
-   git push origin main
+   git remote add origin https://github.com/truptibhuskute/tru-salary-predictor.git
+   git branch -M main
+   git push -u origin main
    ```
 
 2. **Deploy on Streamlit Cloud:**
