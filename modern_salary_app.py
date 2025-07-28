@@ -481,9 +481,8 @@ def main():
                         'Masters': 0.8, 'MBA': 1.0, 'PhD': 1.2, 'JD': 1.0, 'MD': 1.5
                     }
                     cert_bonus = min(certifications * 0.1, 0.5)  # Max 0.5 bonus from certs
-                    # Use a default education level if not defined yet
-                    current_education = education_level if 'education_level' in locals() else 'Bachelors'
-                    calculated_performance = min(5.0, base_performance + education_bonus.get(current_education, 0.0) + cert_bonus)
+                    # Use a default education level since it's not defined yet in this scope
+                    calculated_performance = min(5.0, base_performance + education_bonus.get('Bachelors', 0.0) + cert_bonus)
                     
                     st.metric("Calculated Performance", f"{calculated_performance:.1f}")
                     performance_rating = calculated_performance
