@@ -368,24 +368,13 @@ SOFTWARE.
 
 ### Project Maintainer
 - **Name**: TRU Salary Prediction Team
-- **Email**: contact@trusalaryprediction.com
+- **Email**: bhuskutetrupti@gmail.com
 - **GitHub**: [github.com/trusalaryprediction](https://github.com/trusalaryprediction)
 
-### Support & Inquiries
-- **Technical Support**: tech-support@trusalaryprediction.com
-- **Business Inquiries**: business@trusalaryprediction.com
-- **Bias & Ethics**: ethics@trusalaryprediction.com
-- **General Questions**: info@trusalaryprediction.com
 
-### Social Media
-- **LinkedIn**: [linkedin.com/company/trusalaryprediction](https://linkedin.com/company/trusalaryprediction)
-- **Twitter**: [@TRUSalaryPred](https://twitter.com/TRUSalaryPred)
-- **Website**: [trusalaryprediction.com](https://trusalaryprediction.com)
 
-### Report Issues
-- **GitHub Issues**: [github.com/trusalaryprediction/issues](https://github.com/trusalaryprediction/issues)
-- **Bug Reports**: bugs@trusalaryprediction.com
-- **Feature Requests**: features@trusalaryprediction.com
+- **Bug Reports**: bhuskutetrupti@gmail.com
+
 
 ---
 
@@ -397,6 +386,3 @@ SOFTWARE.
 - **Ethics Research**: Fairness in AI and bias mitigation techniques
 - **Indian Market Research**: Local salary trends and cost of living data
 
----
-
-**Made with ❤️ for fair and transparent salary predictions** 
