@@ -1,4 +1,4 @@
-URLorye: TRU Salary Predictor
+Tru Salary Predictor
 - contact Email: Updated to `truptibhuskute@gmail.com`
 - Main App File: Updated to `polished_salary_app.py`
 - Local URL: Updated to `http://localhost:8501`
