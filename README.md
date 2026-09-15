@@ -1,6 +1,5 @@
-Project Name: TRU Salary Predictor
-- GitHub Repository: UpdatePredictorur actual repository URL
-- Contact Email: Updated to `truptibhuskute@gmail.com`
+URLorye: TRU Salary Predictor
+- contact Email: Updated to `truptibhuskute@gmail.com`
 - Main App File: Updated to `polished_salary_app.py`
 - Local URL: Updated to `http://localhost:8501`
   
